@@ -27,7 +27,7 @@ var searchData=
   ['complex_5fstr_24',['complex_str',['../da/d38/durand__kerner__roots_8c.html#a46197e91f478e99a2229562aaaac311e',1,'durand_kerner_roots.c']]],
   ['contribution_20guidelines_25',['CONTRIBUTION GUIDELINES',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html',1,'']]],
   ['contributor_20covenant_20code_20of_20conduct_26',['Contributor Covenant Code of Conduct',['../d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html',1,'']]],
-  ['convert_27',['convert',['../db/d0c/infix__to__postfix_8c.html#a92af69ffc1e1f965ebce6a44672e96b1',1,'infix_to_postfix.c']]],
+  ['convert_27',['convert',['../db/d0c/infix__to__postfix_8c.html#a92af69ffc1e1f965ebce6a44672e96b1',1,'convert(char infix[], char postfix[]):&#160;infix_to_postfix.c'],['../da/d96/infix__to__postfix2_8c.html#ae363a3863a8bfbf40e7a95c2b9dbe71b',1,'convert(char inf[]):&#160;infix_to_postfix2.c']]],
   ['converted_5flen_28',['converted_len',['../d1/dba/decimal__to__any__base_8c.html#a899b3a7e0f1fac5a465eac0d4b10d711',1,'decimal_to_any_base.c']]],
   ['convertion_29',['convertion',['../d1/dba/decimal__to__any__base_8c.html#a0c5ccb926a23bc0050f213ba3408e18d',1,'decimal_to_any_base.c']]],
   ['count_30',['count',['../d1/d99/structcluster.html#aaacf0562ee2d9e8866c66ddaa6527c2b',1,'cluster::count()'],['../d1/ded/group__misc.html#ga6f8e8c9d25b5891d57e588d80d75028a',1,'count(int *arr, const int size):&#160;prime_seive.c']]],

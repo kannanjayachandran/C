@@ -16,8 +16,9 @@ var searchData=
   ['euler_13',['euler',['../dc/d9a/group__quats.html#ga8cc5e5b7a5fa492423ecf034c8bb52bd',1,'geometry_datatypes.h']]],
   ['euler_5f_14',['euler_',['../d2/de8/structeuler__.html',1,'']]],
   ['euler_5ffrom_5fquat_15',['euler_from_quat',['../dc/d9a/group__quats.html#ga1afd165100e9b02b86e3bd11b50f3b06',1,'quaternions.c']]],
-  ['exact_5fsolution_16',['exact_solution',['../d4/d07/ode__forward__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_forward_euler.c'],['../d1/dc2/ode__midpoint__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_midpoint_euler.c'],['../d4/d99/ode__semi__implicit__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_semi_implicit_euler.c']]],
-  ['example_17',['example',['../dd/d29/doubly__linked__list_8c.html#afa2b50f4716fc3b42221a72e676e1422',1,'doubly_linked_list.c']]],
-  ['exponential_5fsearch_18',['exponential_search',['../da/d6c/exponential__search_8c.html#a82d4de0907b9601a376febf50955bacd',1,'exponential_search.c']]],
-  ['exponential_5fsearch_2ec_19',['exponential_search.c',['../da/d6c/exponential__search_8c.html',1,'']]]
+  ['evaluate_16',['evaluate',['../df/d43/postfix__evaluation_8c.html#a4494492c8fc2509f602acc8228a3b623',1,'postfix_evaluation.c']]],
+  ['exact_5fsolution_17',['exact_solution',['../d4/d07/ode__forward__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_forward_euler.c'],['../d1/dc2/ode__midpoint__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_midpoint_euler.c'],['../d4/d99/ode__semi__implicit__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_semi_implicit_euler.c']]],
+  ['example_18',['example',['../dd/d29/doubly__linked__list_8c.html#afa2b50f4716fc3b42221a72e676e1422',1,'doubly_linked_list.c']]],
+  ['exponential_5fsearch_19',['exponential_search',['../da/d6c/exponential__search_8c.html#a82d4de0907b9601a376febf50955bacd',1,'exponential_search.c']]],
+  ['exponential_5fsearch_2ec_20',['exponential_search.c',['../da/d6c/exponential__search_8c.html',1,'']]]
 ];

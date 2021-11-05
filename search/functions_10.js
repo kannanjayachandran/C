@@ -2,7 +2,7 @@ var searchData=
 [
   ['poly_5fadd_0',['poly_add',['../d0/dcb/poly__add_8c.html#a6ff38afe4720527c9513139cbab460af',1,'poly_add.c']]],
   ['poly_5ffunction_1',['poly_function',['../da/d38/durand__kerner__roots_8c.html#a321f9781a9744ccdaf0aba89f35ec29c',1,'durand_kerner_roots.c']]],
-  ['pop_2',['pop',['../db/d0c/infix__to__postfix_8c.html#a940cdcd27c40699eebb4ef113b2d9451',1,'infix_to_postfix.c']]],
+  ['pop_2',['pop',['../db/d0c/infix__to__postfix_8c.html#a940cdcd27c40699eebb4ef113b2d9451',1,'pop(struct Stack *p):&#160;infix_to_postfix.c'],['../da/d96/infix__to__postfix2_8c.html#a312e7f6c761a199c1369fbe651e084f0',1,'pop():&#160;infix_to_postfix2.c'],['../df/d43/postfix__evaluation_8c.html#a8546e4b3f61be1f09ce47f428116ad7d',1,'pop():&#160;postfix_evaluation.c']]],
   ['positionboat_3',['positionBoat',['../db/de2/naval__battle_8c.html#a3f7d3dc5931fba6164e73057859094d9',1,'naval_battle.c']]],
   ['postorder_5fdisplay_4',['postorder_display',['../df/d3c/threaded__binary__trees_8c.html#a5a82ae0ee13788be51ca4ba6cddb0719',1,'threaded_binary_trees.c']]],
   ['power_5fof_5ften_5',['power_of_ten',['../d9/deb/min__printf_8h.html#a8421f89b76edcf21292c5100bfca586b',1,'min_printf.h']]],
@@ -23,9 +23,10 @@ var searchData=
   ['printpositioning_20',['printPositioning',['../db/de2/naval__battle_8c.html#a5c84d83e31ca6a320b6ea8081402686a',1,'naval_battle.c']]],
   ['printstray_21',['printsTray',['../db/de2/naval__battle_8c.html#ad527fa96e729742a231c4535e112526a',1,'naval_battle.c']]],
   ['printtable_22',['printTable',['../db/de2/naval__battle_8c.html#a3889e1ee574e03ffdde8804180d57543',1,'naval_battle.c']]],
-  ['problem_23',['problem',['../d4/d07/ode__forward__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_forward_euler.c'],['../d1/dc2/ode__midpoint__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_midpoint_euler.c'],['../d4/d99/ode__semi__implicit__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_semi_implicit_euler.c']]],
-  ['propagate_24',['propagate',['../dc/d80/cantor__set_8c.html#a1f156d2b53b80305bd2fa3ff5fdf3c97',1,'cantor_set.c']]],
-  ['purge_25',['purge',['../da/d02/binary__search__tree_8c.html#a01151353aa2d9688934ed39208133241',1,'binary_search_tree.c']]],
-  ['push_26',['push',['../db/d0c/infix__to__postfix_8c.html#a613462735d30cae1b85b606ecab30554',1,'infix_to_postfix.c']]],
-  ['put_5fchar_27',['put_char',['../d9/deb/min__printf_8h.html#ad2f9a02e1d69f58e2fb1248f49d09f4b',1,'min_printf.h']]]
+  ['priority_23',['priority',['../da/d96/infix__to__postfix2_8c.html#a02d1bf0ff997efc46ba6fd0ec7952952',1,'infix_to_postfix2.c']]],
+  ['problem_24',['problem',['../d4/d07/ode__forward__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_forward_euler.c'],['../d1/dc2/ode__midpoint__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_midpoint_euler.c'],['../d4/d99/ode__semi__implicit__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_semi_implicit_euler.c']]],
+  ['propagate_25',['propagate',['../dc/d80/cantor__set_8c.html#a1f156d2b53b80305bd2fa3ff5fdf3c97',1,'cantor_set.c']]],
+  ['purge_26',['purge',['../da/d02/binary__search__tree_8c.html#a01151353aa2d9688934ed39208133241',1,'binary_search_tree.c']]],
+  ['push_27',['push',['../db/d0c/infix__to__postfix_8c.html#a613462735d30cae1b85b606ecab30554',1,'push(struct Stack *p, char x):&#160;infix_to_postfix.c'],['../da/d96/infix__to__postfix2_8c.html#a90e051f23f741be4f8ca86c270d66489',1,'push(char opd):&#160;infix_to_postfix2.c'],['../df/d43/postfix__evaluation_8c.html#af395c540f7e70a8d82d055a0aa42bbef',1,'push(int8_t opd):&#160;postfix_evaluation.c']]],
+  ['put_5fchar_28',['put_char',['../d9/deb/min__printf_8h.html#ad2f9a02e1d69f58e2fb1248f49d09f4b',1,'min_printf.h']]]
 ];
