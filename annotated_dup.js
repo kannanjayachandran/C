@@ -35,6 +35,8 @@ var annotated_dup =
     [ "QueueRep", "d0/d10/struct_queue_rep.html", null ],
     [ "segment_tree", "dd/d06/structsegment__tree.html", "dd/d06/structsegment__tree" ],
     [ "Stack", "dd/d10/struct_stack.html", "dd/d10/struct_stack" ],
+    [ "stack", "d4/d11/structstack.html", null ],
+    [ "StockSpanner", "d1/dac/struct_stock_spanner.html", null ],
     [ "subset", "dc/de5/structsubset.html", null ],
     [ "sudoku", "dc/d18/structsudoku.html", "dc/d18/structsudoku" ],
     [ "T", "d5/d7e/struct_t.html", null ],
@@ -42,5 +44,6 @@ var annotated_dup =
     [ "tnode", "d8/d7a/structtnode.html", null ],
     [ "trie", "d4/dd9/structtrie.html", null ],
     [ "vec_3d_", "d5/db4/structvec__3d__.html", "d5/db4/structvec__3d__" ],
+    [ "Vector", "d4/d06/struct_vector.html", "d4/d06/struct_vector" ],
     [ "word_count_word", "df/ddb/structword__count__word.html", null ]
 ];
